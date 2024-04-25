@@ -281,7 +281,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #353434;
+  background-color: #3877f6;
   border-radius: 100%;
 }
 
@@ -294,7 +294,7 @@ a:focus {
 }
 
 .do_section .do_container .box:hover .img-box {
-  background-color: #fec016;
+  background-color: #0dd825;
 }
 
 .do_section .do_container .arrow_bg::before {
